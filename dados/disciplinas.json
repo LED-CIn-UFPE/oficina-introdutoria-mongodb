@@ -1,0 +1,11 @@
+[
+  { "_id": "BD01", "nome": "Banco de Dados" },
+  { "_id": "ED02", "nome": "Estrutura de Dados" },
+  { "_id": "CA01", "nome": "Cálculo I" },
+  { "_id": "FI01", "nome": "Física Geral" },
+  { "_id": "IA01", "nome": "Inteligência Artificial" },
+  { "_id": "CA02", "nome": "Cálculo 2" },
+  { "_id": "AD08", "nome": "Gestão Estratégica" },
+  { "_id": "TCC1", "nome": "Trabalho de Conclusão" },
+  { "_id": "FI03", "nome": "Física 3" }
+]

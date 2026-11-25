@@ -1,0 +1,62 @@
+[
+  {
+    "matricula": "2026001",
+    "nome": "Mariana Costa",
+    "curso": "Ciência da Computação",
+    "semestre": 4,
+    "disciplinas": [
+      { "codigo": "BD01", "nome": "Banco de Dados", "nota": 9.2, "status": "Aprovado" },
+      { "codigo": "ED02", "nome": "Estrutura de Dados", "nota": 8.5, "status": "Aprovado" }
+    ]
+  },
+  {
+    "matricula": "2026002",
+    "nome": "Lucas Mendes",
+    "curso": "Engenharia Civil",
+    "semestre": 2,
+    "disciplinas": [
+      { "codigo": "CA01", "nome": "Cálculo I", "nota": 5.5, "status": "Reprovado" },
+      { "codigo": "FI01", "nome": "Física Geral", "nota": 7.0, "status": "Aprovado" }
+    ]
+  },
+  {
+    "matricula": "2026003",
+    "nome": "Beatriz Almeida",
+    "curso": "Ciência da Computação",
+    "semestre": 6,
+    "disciplinas": [
+      { "codigo": "BD01", "nome": "Banco de Dados", "nota": 9.8, "status": "Aprovado" },
+      { "codigo": "IA01", "nome": "Inteligência Artificial", "nota": 9.0, "status": "Aprovado" }
+    ]
+  },
+  {
+    "matricula": "2026004",
+    "nome": "Pedro Henrique",
+    "curso": "Engenharia da Computação",
+    "semestre": 1,
+    "disciplinas": [
+      { "codigo": "BD01", "nome": "Banco de Dados", "nota": 8.5, "status": "Aprovado" },
+      { "codigo": "ED02", "nome": "Cálculo 2", "nota": 9.5, "status": "Aprovado" }
+    ]
+  },
+  {
+    "matricula": "2026005",
+    "nome": "Camila Rocha",
+    "curso": "Administração",
+    "semestre": 8,
+    "disciplinas": [
+      { "codigo": "AD08", "nome": "Gestão Estratégica", "nota": 9.5, "status": "Aprovado" },
+      { "codigo": "TCC1", "nome": "Trabalho de Conclusão", "nota": 10.0, "status": "Aprovado" }
+    ]
+  },
+  {
+    "matricula": "2026006",
+    "nome": "Rafael Torres",
+    "curso": "Engenharia da Computação",
+    "semestre": 4,
+    "disciplinas": [
+      { "codigo": "BD01", "nome": "Banco de Dados", "nota": 6.8, "status": "Reprovado" },
+      { "codigo": "RM01", "nome": "Física 3", "nota": 7.2, "status": "Aprovado" }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "2026001",
+    "nome": "Mariana Costa",
+    "curso": "Ciência da Computação",
+    "semestre": 4,
+    "disciplinas": [
+      { "disciplina_id": "BD01", "nota": 9.2, "status": "Aprovado" },
+      { "disciplina_id": "ED02", "nota": 8.5, "status": "Aprovado" }
+    ]
+  },
+  {
+    "_id": "2026002",
+    "nome": "Lucas Mendes",
+    "curso": "Engenharia Civil",
+    "semestre": 2,
+    "disciplinas": [
+      { "disciplina_id": "CA01", "nota": 5.5, "status": "Reprovado" },
+      { "disciplina_id": "FI01", "nota": 7.0, "status": "Aprovado" }
+    ]
+  },
+  {
+    "_id": "2026003",
+    "nome": "Beatriz Almeida",
+    "curso": "Ciência da Computação",
+    "semestre": 6,
+    "disciplinas": [
+      { "disciplina_id": "BD01", "nota": 9.8, "status": "Aprovado" },
+      { "disciplina_id": "IA01", "nota": 9.0, "status": "Aprovado" }
+    ]
+  },
+  {
+    "_id": "2026004",
+    "nome": "Pedro Henrique",
+    "curso": "Engenharia da Computação",
+    "semestre": 1,
+    "disciplinas": [
+      { "disciplina_id": "BD01", "nota": 8.5, "status": "Aprovado" },
+      { "disciplina_id": "CA02", "nota": 9.5, "status": "Aprovado" }
+    ]
+  },
+  {
+    "_id": "2026005",
+    "nome": "Camila Rocha",
+    "curso": "Administração",
+    "semestre": 8,
+    "disciplinas": [
+      { "disciplina_id": "AD08", "nota": 9.5, "status": "Aprovado" },
+      { "disciplina_id": "TCC1", "nota": 10.0, "status": "Aprovado" }
+    ]
+  },
+  {
+    "_id": "2026006",
+    "nome": "Rafael Torres",
+    "curso": "Engenharia da Computação",
+    "semestre": 4,
+    "disciplinas": [
+      { "disciplina_id": "BD01", "nota": 6.8, "status": "Reprovado" },
+      { "disciplina_id": "FI03", "nota": 7.2, "status": "Aprovado" }
+    ]
+  }
+]
